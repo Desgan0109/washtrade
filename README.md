@@ -1,0 +1,2 @@
+# washtrade
+Anti-washtrade
